@@ -1,0 +1,14 @@
+{
+  "name": "charity_foundation",
+  "version": "1.0.0",
+  "description": "Dog Charity Website",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/input.css -o ./css/styles.css --watch"
+  },
+  "author": "Shekhar",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
